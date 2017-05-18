@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "137287629364",
+    "firebase_url": "https://onlinedocs-a83a1.firebaseio.com",
+    "project_id": "onlinedocs-a83a1",
+    "storage_bucket": "onlinedocs-a83a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137287629364:android:735013a4a12ecf88",
+        "android_client_info": {
+          "package_name": "com.shubham.onlinedocs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137287629364-8um4amj5g5ln2qusa317ludoheclhjet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shubham.onlinedocs",
+            "certificate_hash": "7b04aeff4cac258c30d9604b23703f0d162f7302"
+          }
+        },
+        {
+          "client_id": "137287629364-1sb5oilquksq511vooi1m5sp55hh468a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoMFRxu89SgW4oSuL3tKo07GieP0YuzZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137287629364-1sb5oilquksq511vooi1m5sp55hh468a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

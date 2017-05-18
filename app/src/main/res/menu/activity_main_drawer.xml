@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_aadhar"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="AADHAR" />
+        <item
+            android:id="@+id/nav_pan"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="PAN CARD" />
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="ACCOUNT NO" />
+        <item
+            android:id="@+id/nav_drive"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="DRIVING LICENCE" />
+    </group>
+
+
+
+</menu>
